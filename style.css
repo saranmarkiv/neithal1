@@ -1,0 +1,160 @@
+body{
+	background-color: white;
+}
+.topbar{
+	background-color: orange;
+	width: 100%;
+	height: 10px;
+}
+
+
+.container{
+	height: 1279px;
+	background-color: #e1e1e1;
+	width: 70%;
+	margin:0px auto; 
+}
+.header{
+	height: 90px;
+	width: 100%;
+	background-color: white;
+
+}
+.header img
+{
+	height: 70px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+.header ul{
+	float: right;
+	margin-top: 35px;
+}
+.header ul li{
+	display: inline;
+	margin-right: 20px;
+}
+.header ul li a{
+	color:grey;
+	text-decoration: none;
+	font-size: 18px;
+}
+.banner img{
+	margin-top: 10px;
+	width: 80%;
+	padding-left:100px;
+
+}
+.content1{
+	width: 30%;
+	height: 350px;
+	background-color: #f86900;
+	float: left;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+.content2{
+	width: 30%;
+	height: 350px;
+	background-color: #f86900;
+	float: left;
+	margin-top: 10px;
+}
+.content3{
+	width: 30%;
+	height: 350px;
+	background-color: #f86900;
+	float: right;
+	margin-top: 10px;
+}
+.heading{
+	color: white;
+	margin-left: 20px;
+	font-size: 28px;
+	margin-top: 30px;
+}
+.para1{
+	color: white;
+	margin-left: 20px;
+	font-size: 15px;
+	margin-right: 20px;
+	line-height: 1.4em;
+
+}
+.more{
+	text-decoration: none;
+	color: black; 
+	background-color: white;
+	padding: 8px;
+	margin-left: 20px;
+}
+.bottom1{
+	margin-top: 15px;
+	
+	width: 60%;
+	float: left;
+
+}
+.bottom2{
+	margin-top: 15px;
+	
+	width: 40%;
+	
+	float: right;
+
+}
+.bottom1 h2{
+	color:black;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.bottom1 p{
+	color:black;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.bottom1 a{
+	margin-left: 20px;
+	color:orange;
+	text-decoration: none;
+
+}
+.bottom2 h2{
+	color:black;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.bottom2 img{
+	width: 100%;
+	height: 200px;
+}
+.footer{
+	width: 100%;
+	height: 60px;
+	background-color: black;
+	clear: both;
+
+}
+.footer ul{
+	float: left;
+	margin-top: 20px;
+}
+.footer ul li{
+	display: inline;
+	margin-right: 20px;
+}
+.footer ul li a{
+	color:grey;
+	text-decoration: none;
+	font-size: 18px;
+}
+.footer p{
+	color: grey;
+	float: right;
+	margin-top: 20px;
+	margin-right: 40px;
+}
